@@ -1,2 +1,2 @@
 My edited frist readme
-edited readme
+edited README.md 
